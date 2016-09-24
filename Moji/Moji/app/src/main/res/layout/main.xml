@@ -1,0 +1,129 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FEF9F0"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/moji"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_marginTop="220dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+
+    <TextView
+        android:id="@+id/yonginWeather"
+        android:text="용인 날씨"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/seoulWeather"
+        android:layout_toRightOf="@+id/moji" />
+    <TextView
+        android:id="@+id/seoulWeather"
+        android:text="서울 날씨"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:layout_below="@+id/moji"
+        android:layout_toLeftOf="@+id/moji"
+        android:layout_toStartOf="@+id/moji" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/seoulimageView"
+        android:layout_marginBottom="100dp"
+        android:layout_alignRight="@+id/seoulWeather"
+        android:layout_alignEnd="@+id/seoulWeather"
+        android:layout_alignLeft="@+id/seoulWeather"
+        android:layout_alignStart="@+id/seoulWeather"
+        android:layout_below="@+id/seoulWeather" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/yonginimageView"
+        android:layout_marginBottom="100dp"
+        android:layout_alignRight="@+id/yonginWeather"
+        android:layout_alignEnd="@+id/yonginWeather"
+        android:layout_alignLeft="@+id/yonginWeather"
+        android:layout_alignStart="@+id/yonginWeather"
+        android:layout_below="@+id/yonginWeather" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="#AEE8FB"
+        android:text="취업개발"
+        android:textStyle="bold"
+        android:id="@+id/employBtn"
+        android:layout_below="@+id/moji"
+        android:layout_toLeftOf="@+id/moji"
+        android:layout_toStartOf="@+id/moji" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="#00BCD1"
+        android:text="교육개발"
+        android:textStyle="bold"
+        android:id="@+id/eduBtn"
+        android:layout_below="@+id/moji"
+        android:layout_toRightOf="@+id/employBtn"
+        android:layout_toEndOf="@+id/employBtn" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="#B0F8FF"
+        android:text="음성인식"
+        android:textStyle="bold"
+        android:id="@+id/voiceBtn"
+        android:layout_alignTop="@+id/stuBtn"
+        android:layout_toRightOf="@+id/employBtn"
+        android:layout_toEndOf="@+id/employBtn" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="#76D3DE"
+        android:text="  학생회  "
+        android:textStyle="bold"
+        android:id="@+id/stuBtn"
+        android:layout_alignBottom="@+id/moji"
+        android:layout_toLeftOf="@+id/moji"
+        android:layout_toStartOf="@+id/moji" />
+
+    <TextView
+        android:id="@+id/seoul"
+        android:text=" 인문캠퍼스 "
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/yonginWeather"
+        android:layout_alignRight="@+id/seoulWeather"
+        android:layout_alignEnd="@+id/seoulWeather" />
+
+    <TextView
+        android:id="@+id/yongin"
+        android:text=" 자연캠퍼스 "
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/yonginWeather"
+        android:layout_alignLeft="@+id/yonginWeather"
+        android:layout_alignStart="@+id/yonginWeather" />
+
+
+</RelativeLayout>

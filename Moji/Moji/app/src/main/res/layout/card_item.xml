@@ -1,0 +1,36 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FEF9F0"
+    tools:context=".CardView.CardItemView">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:text="" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/lnrLayout">
+
+        <TextView
+            android:id="@+id/cardTitle"
+            android:textStyle="bold"
+            android:textSize="17dp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+
+            />
+        <TextView
+            android:id="@+id/cardContent"
+            android:gravity="center|left"
+            android:layout_width="match_parent"
+            android:layout_height="168dp"
+            android:padding="10dp"/>
+    </LinearLayout>
+</FrameLayout>
