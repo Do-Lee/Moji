@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/debug/color/abs__primary_text_disable_only_holo_dark.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/color/abs__primary_text_disable_only_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/debug/color/abs__primary_text_holo_dark.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/color/abs__primary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/debug/color/abs__primary_text_holo_light.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/color/abs__primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/debug/color/abs__primary_text_disable_only_holo_light.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/color/abs__primary_text_disable_only_holo_light.xml"
+    }
+]

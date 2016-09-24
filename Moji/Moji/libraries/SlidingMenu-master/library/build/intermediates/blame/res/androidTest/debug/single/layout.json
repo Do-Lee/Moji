@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/abs__action_menu_layout.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/abs__action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/slidingmenumain.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/bundles/debug/res/layout/slidingmenumain.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/abs__screen_action_bar.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/sherlock_spinner_item.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/sherlock_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/abs__action_mode_close_item.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/abs__action_mode_close_item.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/abs__action_mode_bar.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/abs__action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/abs__search_view.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/abs__search_view.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/abs__activity_chooser_view.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/abs__activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/abs__action_bar_home.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/abs__action_bar_home.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/abs__activity_chooser_view_list_item.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/abs__activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/sherlock_spinner_dropdown_item.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/sherlock_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/abs__popup_menu_item_layout.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/abs__popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/abs__action_bar_tab.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/abs__action_bar_tab.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/abs__action_menu_item_layout.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/abs__action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/abs__simple_dropdown_hint.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/abs__simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/abs__screen_simple.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/abs__screen_simple.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/abs__search_dropdown_item_icons_2line.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/abs__search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/abs__action_bar_tab_bar_view.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/abs__action_bar_tab_bar_view.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/abs__list_menu_item_icon.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/abs__list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/abs__screen_action_bar_overlay.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/abs__screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/abs__list_menu_item_checkbox.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/abs__list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/abs__action_bar_title_item.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/abs__action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/abs__screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/abs__screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/res/merged/androidTest/debug/layout/abs__list_menu_item_radio.xml",
+        "source": "/Users/Lee/Documents/Study/2016-1/전공/캡스톤 디자인/Moji/Moji/Moji/libraries/SlidingMenu-master/library/build/intermediates/exploded-aar/Moji.libraries/actionbarsherlock/unspecified/res/layout/abs__list_menu_item_radio.xml"
+    }
+]
